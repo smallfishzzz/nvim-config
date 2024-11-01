@@ -22,6 +22,7 @@ function M.config()
 	{ "<leader>wq", "<cmd>q<cr>", desc = "quite window", mode = "n" },
 
 	{ "<leader>q", "<cmd>q<cr>", desc = "quite window", mode = "n" },
+	{ "<leader>t", "<cmd>tselect<cr>", desc = "tag select ", mode = "n" },
   })
 
 end
